@@ -1,0 +1,37 @@
+Start -
+Initalise following varibales:
+
+int numTests
+int totalNumSightings
+double averageNumSightings
+File file 
+PrintWriter 
+Scanner 
+Scanner 
+Random 
+
+while numTests < 1000
+Print How many tests do you want to run?
+numTests = in.NextInt
+close scanner 
+
+Print simulating
+
+For loop iteration of numTests
+declare testFox
+    while testFox == false
+        if getRand == 1
+        testFox = true
+    end loop
+numBeforeSights++
+
+Print amount in outFile then close
+
+while scanner has next line
+    save input to String
+
+do math for average
+
+print average 
+
+end 

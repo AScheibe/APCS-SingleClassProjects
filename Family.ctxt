@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Family
+comment0.text=\n\ Reads\ data\ about\ families\ from\ a\ text\ files,\ then\ outputs\ statistics\ on\ the\ male\ \n\ and\ female\ composition\ of\ the\ children.\n\n\ @author\ Alexander\ Scheibe\n\ @version\ 1/3/2020\n
+comment1.params=
+comment1.target=void\ scoresIncreasing()
+numComments=2
